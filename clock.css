@@ -118,3 +118,11 @@ body{
     z-index: 12;
     border-radius: 6px 6px 0 0;
 }
+
+.name{
+    padding-top: 450px;
+    font-weight: 400;
+    color: wheat;
+    
+   
+}
